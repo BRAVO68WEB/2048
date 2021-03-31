@@ -22,6 +22,18 @@
       "density": "1.5"
     },
     {
+      "src": "./assets/favicons/2048-112x112px.png",
+      "sizes": "112x112",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "./assets/favicons/2048-56xp6px.png",
+      "sizes": "56x56",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
       "src": "./assets/favicons/android-icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png",
